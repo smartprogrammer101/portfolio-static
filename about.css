@@ -1,0 +1,23 @@
+main {
+    padding: 100px 0;
+}
+p {
+    margin: 1em;
+}
+.image {
+    margin: 0 auto;
+    /* border: solid; */
+    max-width: 300px;
+}
+img {
+    max-width: 100%;
+}
+.text {
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    line-height: 1.5;
+    max-width: 35rem;
+    margin: 0 auto;
+}
+.italic {
+    font-style: italic;
+}
